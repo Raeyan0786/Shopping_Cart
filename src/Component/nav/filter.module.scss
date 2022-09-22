@@ -1,0 +1,22 @@
+
+  
+  .expenses1 {
+    display: flex;
+    width: 25%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-left: 20px;
+    
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+select {
+    font: inherit;
+    padding: 0.5rem 3rem;
+    font-weight: bold;
+    border-radius: 6px;
+  }

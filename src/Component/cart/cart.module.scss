@@ -1,0 +1,62 @@
+td{
+    width: 230px;
+}
+th{
+    width: 230px;
+    text-align: left;
+    border-bottom: 2px solid black;
+    border-collapse: collapse;
+    height: 35px;
+    background-color: #dddddd;
+}
+table{
+    margin-left: 20px;
+    border-collapse: collapse;
+}
+.th_end{
+    padding-right: 30px;
+    text-align: right;
+    border-top-right-radius: 5px;
+}
+.img1{
+    flex-basis: 32%;
+}
+.img2 {
+width: 35%;
+display: block;
+margin-left: 10px;
+margin-top: 5px;
+}
+.cart{
+color: white;
+font-size: 15px;
+margin-left: 10px;
+margin-top: 5px;
+}
+#size{
+font-size: 17px;
+
+}
+.smile{
+color: green;
+}
+.div1{
+    width: 50px;
+    height: 25px;
+    outline: none;
+    background-color: #EEF6F6;
+    text-align: center;
+    position: relative;
+    margin-left: 100px;
+}
+.pos{
+    position: absolute;
+    bottom: 6px;
+    left: 22px;
+}
+.div2{
+    background-color: black;
+    width: 50px;
+    height: 30px;
+    margin-left: 3px;
+}
